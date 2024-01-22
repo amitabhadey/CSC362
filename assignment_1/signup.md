@@ -1,4 +1,4 @@
-Format: Name, Email, Section
+### **Format: Name, Email, Section**
 
 Amitabha Dey, a_dey@uncg.edu, (Section 1, 2, 3)
 
