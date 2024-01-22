@@ -1,4 +1,4 @@
-# CSC362
+# UNCG CSC362 Spring 2024
 
 ### System and Tool Set-up Information
 
